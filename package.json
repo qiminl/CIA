@@ -1,0 +1,24 @@
+{
+  "name": "node-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "debug": "node --debug ./server.js"
+  },
+  "dependencies": {
+    "body-parser": "x",
+    "cron": "x",
+    "express": "x",
+    "fetch": "x",
+    "q": "1.4.1",
+    "request": "2.55.0",
+    "underscore": "x",
+    "winston": "x",
+    "winston-loggly": "x",
+    "xmlhttprequest": "1.8.0"
+  },
+  "version": "0.0.2",
+  "engines": {
+    "node": "7.5.x"
+  }
+}
